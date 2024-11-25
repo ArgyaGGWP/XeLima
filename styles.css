@@ -56,11 +56,4 @@
   footer p {
     font-size: 0.9rem;
   }
-  .gambar-kelas {
-    display: flex;
-    align-items: left;
-    justify-content: left;
-    width: 25vh;
-    height: 50vh;
-  }
  
